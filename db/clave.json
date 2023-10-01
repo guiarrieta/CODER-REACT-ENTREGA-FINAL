@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "tienda-muydeco",
+  "private_key_id": "eb7735c0e0a1cec513aaae1b0d7971b0b2fc97c2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDHQKK+zBEQD7FI\nCKxWPYT4zn6VhX34qaHs8FdJPFgi8cyblRylQ+0d695p6fPc7H0dAPj67E7vcpXH\nD2iGDJbIVFygYkb+Z46Ferag+B2/C5wMf1pLcgmy9FMEPmBOFn6O2M5/0eP0mS9G\nnp0bW9+aH0OCHr3k7yeXfifHTjrzNgogaEQirBNE7hW18YKNgFsjGup9BRh4jVz/\noUXzjHWW0fJtCp8KC4iR0Vcff4T0LAhQKYa/yGJneVgj2jIR+a1wCYDVaYtpiWAU\n5xIMBkIGiXTB32RKntAlHeiV02t+gSMXynG+S5cbeXNc6XIlMMXU8u2x0F2iOtNS\n2vImbq9hAgMBAAECggEAAkoCOfjBtG0dughhec8p9SrNe6hwM/hiRBosbTVh2irs\nJm3Dibwv9UagWZf8ECcbtobW6sO8EhZUqq1eY8sxZe/0LXfbksYmoMQcui4yN0o/\nRXR8GX71ULvrrTzjNy/Hze/R4C2NiyHsZV5ioIMWcfXsfQpJ37SwqtX38oX5+ZEk\nPznMg0/epUQjPIvJiQ2iht6DI/WWCSSrlZgnq/giBrKmAZTUC1WJD32RNkfZOR2Y\nlKV6eppHsnLCuX9Nfcy6ad/kuLSRSzhY7pwvvO82bBXkxIOfWBdRPPxWWLwRxtqW\nkEl0TtcbC/MugPabhZ6kspXj2JYQ8sJj65MuVTEYzQKBgQDzfQpOxpN4bUZg/Oi+\n1gHFLpcdWaPt/ob++hEcpec4t3DVJi1wdBgGhxtqTckM8r3jANxvySwn83BvK5ZH\nShWBoSlPN2VA8MwX7x2nch/mF2slmsk9M8z+Q2aBs+6qqOPdN/IStF0A4JwLo/GN\n9iDCWLctyx66MLcg6EbGmRfABQKBgQDRfbH5LO5fdtqfJ5Yf8T0Mux/rdywDNmCt\nGQEKHyigElmX1E7mu0THMmuQVMt2kp6sGTDiAeJd9qRLAO0iFTKOYFpPZCxbF054\nstnfoyARbUv6Lmfjd7l7anXO9T7+dYzsfnRKbLTLiT6qAPTHkvD29/73swrELBC9\nkEHctnn8rQKBgQCzelQCxTUm68WY8FPPd4hOhI03QUAoyhlQEZxTdab+k5lERKPx\n5GFhTm3S6gts0/FMRvI2JB+8QyF5kLNxURaROu5sSfUE7XpDmipNpz4EKPb9/R6h\nUnGkaqJAsRUYDu4HvpldWD3Fy8q6edowPmDfYO2Ff9fifs4+H3ksIuTy0QKBgEYp\n8Tfhopz6s9JmcdOU+ruO2OwGaAlTZyHSpBR9xx+FxdgiVaLVyf1ll70piVPXW6mM\nbmDj/Ks39mLglou5ycsB3n2EsY54yeGHFY3fltf/YVkTvdvjt43sZDTC0yxqtp5m\n5BAhRJR/DSvnUhSd1HMDMLRJlSuLDrhO3qBLxaOpAoGAH3v79As1GHELMRb79a0M\nd9zVxyABDKwd4sddN7p9Duvh81NWWr85dg2BdVeaJhD9MBq3B1U6HTUAu/NcwA+P\nHjHMdDF1J8XzbwbaSWlAmZj4ktj7JNXXX0D3w4peJWDgjnUSf8o1BMeN2nabEvpY\nykwy+6Z/BRpTic83aAAlnAA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-kilp7@tienda-muydeco.iam.gserviceaccount.com",
+  "client_id": "115722599301591670338",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-kilp7%40tienda-muydeco.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

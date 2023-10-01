@@ -1,0 +1,142 @@
+{
+	"__collections__": {
+		"categories": {
+			"LMpwM4IZeq5VIY26Nxfd": {
+				"categories": ["Living",
+				"Cocina",
+				"GiftBoxs"],
+				"__collections__": {
+					
+				}
+			}
+		},
+		"products": {
+			"2crsLaOrirVvRVsDfB1N": {
+				"title": "Almohadon Marron",
+				"price": 3000,
+				"description": "Almohadon Marron Estampado",
+				"stock": 8,
+				"name": "Almohadon Marron",
+				"category": "Living",
+				"thumbnail": "https://i.ibb.co/xLMrf1P/almohadon-marron-estampado.jpg",
+				"__collections__": {
+					
+				}
+			},
+			"2crsLaOrirVvRVsDfB11": {
+				"title": "Almohadon Verde",
+				"price": 2800,
+				"description": "Almohadon Verde Estampado",
+				"stock": 3,
+				"name": "Almohadon Verde",
+				"category": "Living",
+				"thumbnail": "https://i.ibb.co/fdzpqDg/almohadon-verde-estampado.jpg",
+				"__collections__": {
+					
+				}
+			},
+			"2crsLaOrirVvRVsDfB12": {
+				"title": "Almohadon Blanco",
+				"price": 3500,
+				"description": "Almohadon Blanco Tiras Negras",
+				"stock": 10,
+				"name": "Almohadon Blanco",
+				"category": "Living",
+				"thumbnail": "https://i.ibb.co/1JsQ1rs/almohadones-blanco-tiras-negras.jpg",
+				"__collections__": {
+					
+				}
+			},
+			"2crsLaOrirVvRVsDfB13": {
+				"title": "Almohadon Blanco Flecos",
+				"price": 3000,
+				"description": "Almohadon Blanco Flecos",
+				"stock": 8,
+				"name": "Almohadon Blanco Flecos",
+				"category": "Living",
+				"thumbnail": "https://i.ibb.co/9sQkMzt/almohadones-blancos-flecos.jpg",
+				"__collections__": {
+					
+				}
+			},
+			"2crsLaOrirVvRVsDfB14": {
+				"title": "Camino Mesa",
+				"price": 4500,
+				"description": "Camino Mesa",
+				"stock": 4,
+				"name": "Camino Mesa",
+				"category": "Cocina",
+				"thumbnail": "https://i.ibb.co/51qJZwv/camino-mesa.jpg",
+				"__collections__": {
+					
+				}
+			},
+			"2crsLaOrirVvRVsDfB15": {
+				"title": "Individual",
+				"price": 1800,
+				"description": "Individual",
+				"stock": 18,
+				"name": "Individual",
+				"category": "Cocina",
+				"thumbnail": "https://i.ibb.co/ssNNPbh/individual-2.jpg",
+				"__collections__": {
+					
+				}
+			},
+			"2crsLaOrirVvRVsDfB16": {
+				"title": "Individual Marron",
+				"price": 1700,
+				"description": "Individual Marron",
+				"stock": 12,
+				"name": "Individual Marron",
+				"category": "Cocina",
+				"thumbnail": "https://i.ibb.co/JqJnf8v/individual-marron.jpg",
+				"__collections__": {
+					
+				}
+			},
+			"2crsLaOrirVvRVsDfB17": {
+				"title": "Set individuales",
+				"price": 5000,
+				"description": "Set individuales",
+				"stock": 5,
+				"name": "Set individuales",
+				"category": "GiftBoxs",
+				"thumbnail": "https://i.ibb.co/4s3nHNH/individuales-set-2.jpg",
+				"__collections__": {
+					
+				}
+			},
+			"2crsLaOrirVvRVsDfB18": {
+				"title": "Organizadores",
+				"price": 4800,
+				"description": "Almohadon",
+				"stock": 6,
+				"name": "Organizadores",
+				"category": "GiftBoxs",
+				"thumbnail": "https://i.ibb.co/dbScrth/organizadores.jpg",
+				"__collections__": {
+					
+				}
+			},
+			"2crsLaOrirVvRVsDfB19": {
+				"title": "Set individuales",
+				"price": 4500,
+				"description": "Set individuales",
+				"stock": 8,
+				"name": "Set individuales",
+				"category": "GiftBoxs",
+				"thumbnail": "https://i.ibb.co/58HDJ45/individuales-set.jpg",
+				"__collections__": {
+					
+				}
+			},
+			"2dpq6Q1D3hemU5xuSN2j": {
+				"prueba": "",
+				"__collections__": {
+					
+				}
+			}
+		}
+	}
+}
